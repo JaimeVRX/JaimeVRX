@@ -1,12 +1,11 @@
 # 👾 Hey, I'm Jaime
 
-🚀 Always learning, building, and experimenting with new ideas.
+🚀 Always learning and experimenting with new ideas.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💡 Passionate about development and creative projects  
 - 🧪 I enjoy experimenting with new technologies  
 - 🚀 Always improving and learning something new  
 
