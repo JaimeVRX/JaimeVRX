@@ -6,8 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧪 I enjoy experimenting with new technologies  
-- 🚀 Always improving and learning something new  
+Im 20 years old i do development as a hobby and i like to help people 
 
 ---
 
