@@ -21,7 +21,7 @@ Some of the systems I work on include:
 - 👮 Police & emergency service systems
 - 🛡️ Administration & staff management
 - 🕵️ Logging, monitoring & security systems
-- 💊 Criminal & underground gameplay
+- 💊 Criminal gameplay
 - 🚗 Vehicle & garage systems
 - 🪪 Identification & license systems
 - 🎒 ox_inventory integrations
