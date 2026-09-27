@@ -4,7 +4,7 @@
 
 I'm a 20-year-old hobby developer from the Netherlands who enjoys building systems, experimenting with new ideas, and helping other people with their projects.
 
-Most of my current work is focused on **FiveM development**, creating custom resources, gameplay systems, user interfaces, server tools, and integrations for **RedLine Roleplay** under **Valyrix Studios**.
+Most of my current work is focused on **FiveM development**, creating custom resources, gameplay systems, user interfaces, server tools, and integrations for **RedLine Roleplay**.
 
 ---
 
